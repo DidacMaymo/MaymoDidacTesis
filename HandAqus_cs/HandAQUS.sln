@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandAQUS", "HandAQUS\HandAQUS.csproj", "{6C4248C0-05F0-4D8F-9FF2-A61B1D7F9B19}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HandAqusInstaller", "..\HandAqus Installer\HandAqusInstaller\HandAqusInstaller.vdproj", "{2E82B74E-0349-47DD-A1DE-74A72CDE4DB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4248C0-05F0-4D8F-9FF2-A61B1D7F9B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4248C0-05F0-4D8F-9FF2-A61B1D7F9B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4248C0-05F0-4D8F-9FF2-A61B1D7F9B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4248C0-05F0-4D8F-9FF2-A61B1D7F9B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E82B74E-0349-47DD-A1DE-74A72CDE4DB5}.Debug|Any CPU.ActiveCfg = Debug
+		{2E82B74E-0349-47DD-A1DE-74A72CDE4DB5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E3253B9-ABDB-4AFD-82C6-9DB1F48C9FD5}
+	EndGlobalSection
+EndGlobal

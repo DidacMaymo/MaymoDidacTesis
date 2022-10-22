@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlignData2.0", "AlignData2.0\AlignData2.0.csproj", "{0201935E-09AA-494D-9EF2-8629A9F756AE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AlignDataSetupProject", "..\AlignData2.0 Installer\AlignDataSetupProject\AlignDataSetupProject.vdproj", "{3D2C14A6-08D6-4F05-8361-A23745543E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0201935E-09AA-494D-9EF2-8629A9F756AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0201935E-09AA-494D-9EF2-8629A9F756AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0201935E-09AA-494D-9EF2-8629A9F756AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0201935E-09AA-494D-9EF2-8629A9F756AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2C14A6-08D6-4F05-8361-A23745543E5B}.Debug|Any CPU.ActiveCfg = Debug
+		{3D2C14A6-08D6-4F05-8361-A23745543E5B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0782C0A-81A7-47B4-8EDC-CFAB76ABF5EB}
+	EndGlobalSection
+EndGlobal
